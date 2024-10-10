@@ -1,0 +1,114 @@
+.banner{
+    background-image: linear-gradient( to top  , rgba(100, 104, 128, 0.52), rgba(29, 13, 24, 0.73)), url('../resources/Banner\ Image.png');
+    margin: 40px 100px;
+    border-radius: 10px;
+    
+}
+
+.banner-body{
+    padding: 150px 300px;
+    text-align: center;
+}
+
+.banner-title{
+    color: #fff;
+    font-size: 35px;
+}
+
+.banner-description{
+    color: #fff;
+    font-size: 75px; 
+}
+
+/* categories style */
+.categories{
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.categories-title{
+    font-size: 75px;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.categories-para{
+    font-size: 25;
+    font-weight: bold;
+    color: #ff0000;
+   
+}
+
+.categories-info{
+    color: #000;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+/* welcome party style */
+
+.welcome-party{
+    background-image:linear-gradient( to left  , rgba(207, 74, 74, 0.52), rgba(16, 15, 15, 0.956)) , url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin: 100px;
+    color: #fff;
+    position: relative;
+}
+
+.welcome-img{
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    margin: 100px;
+}
+
+.welcome-info{
+    width: 50%;
+    padding: 100px;
+}
+
+.welcome-info h3{
+    font-size: 80px;
+}
+
+.join-btn{
+    padding-top: 20px;
+    padding-left: 10px;
+    
+}
+
+.join-btn button{
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+    border: 0;
+}
+
+/* event style */
+.event{
+    background-image:linear-gradient( to top  , rgba(166, 154, 167, 0.52), rgba(193, 128, 194, 0.329)) ;
+    text-align: center;
+    margin: 100px;
+    padding: 70px 0px;
+}
+.event span{
+    color: #ff0000;
+    font-size: 30px;
+    font-weight:600;
+}
+
+.event h3{
+    font-size: 30px;
+    font-weight:600;
+}
+
+.event-btn{
+    background-color: #ff0000;
+    color: #fff;
+    font-size: 20px;
+    font-weight:600;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 5px;
+}
